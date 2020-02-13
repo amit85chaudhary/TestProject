@@ -14,5 +14,6 @@ options.setExperimentalOption("excludeSwitches", new String[]{"enable-automation
 WebDriver driver = new ChromeDriver();
 driver.get("https://www.google.com");
 System.out.println("amit");
+System.out.println("amit1");
 }
 }
